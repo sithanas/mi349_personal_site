@@ -1,0 +1,39 @@
+body {
+    background: #202020;
+    color: #ffffff;
+    padding: 50px;
+    font-family: serif;
+}
+
+h1 {
+    font-size: 4em;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.2em;
+}
+
+ol {
+    padding: 15px;
+    margin-left: 20px;
+    list-style-type: upper-roman;
+}
+
+li {
+    padding-bottom: 5px
+}
+
+.album {
+    width: 50%;
+}
+
+.bodytext {
+    font-size: 1.5em
+}
+
+.lyrics {
+    color: greenyellow;
+}
