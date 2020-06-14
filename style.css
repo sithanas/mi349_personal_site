@@ -27,12 +27,13 @@ li {
 }
 
 .album {
-    width: 50%;
+    height: 350px;
     border-radius: 25%;
     border: 5px inset #bbb;
     box-shadow: rgba(204, 214, 117, 0.8) 0 0 30px;
     float: left;
     margin-left: 20px;
+    margin-right: 15px
 }
 
 .bodytext {
