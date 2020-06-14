@@ -26,6 +26,10 @@ li {
     padding-bottom: 5px
 }
 
+.albumcontent {
+    margin-top: 50px;
+}
+
 .album {
     height: 350px;
     border-radius: 25%;
@@ -50,8 +54,10 @@ li {
 }
 
 .lyrics {
+    float: left;
     color: greenyellow;
     list-style: none;
+    margin: 50px;
 }
 .lyrics a {
     color: green;
